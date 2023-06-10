@@ -16,7 +16,7 @@
   "dependencies": {
     "@takeshape/gatsby-source-takeshape": "0.0.2-5",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.23.12",
+    "gatsby": "^4.25.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
